@@ -1,5 +1,4 @@
-node_modules
-comments.*.csv
-*.csv
+#comments.*.csv
+#*.csv
 temp.py
 test.py
